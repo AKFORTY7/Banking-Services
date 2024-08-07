@@ -1,2 +1,2 @@
-# Banking-Services
-Banking services mini project
+# atm
+ATM machine
